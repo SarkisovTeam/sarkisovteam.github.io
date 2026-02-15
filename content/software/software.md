@@ -17,7 +17,7 @@ weight: 30
 #   email: lev.sarkisov@manchester.ac.uk
 #   # phone: 888 888 88 88
 #   address:
-#     street: Engineering Building A, Booth St E
+#     street: Nancy ROthwell Building, Booth St E
 #     city: Manchester
 #     region: Lancashire
 #     postcode: M13
