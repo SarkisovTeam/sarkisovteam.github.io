@@ -39,7 +39,7 @@ email: "joseph.manning@manchester.ac.uk"
 superuser: true
 
 user_groups:
-  - Researchers
+  - Alumni
 
 highlight_name: true
 
