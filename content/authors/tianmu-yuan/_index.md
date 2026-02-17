@@ -48,7 +48,7 @@ email: "tianmu.yuan@manchester.ac.uk"
 superuser: true
 
 user_groups:
-  - Alumni
+  - 
 
 highlight_name: true
 

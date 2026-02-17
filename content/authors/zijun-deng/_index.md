@@ -20,7 +20,7 @@ email: "zijun.deng@postgrad.manchester.ac.uk"
 superuser: false
 
 user_groups:
-  - Alumni
+  - 
 
 highlight_name: true
 ---

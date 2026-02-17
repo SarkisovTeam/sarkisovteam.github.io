@@ -43,7 +43,7 @@ email: "arun.gopalan@manchester.ac.uk"
 superuser: false
 
 user_groups:
-  - Alumni
+  - 
 
 highlight_name: true
 

@@ -46,7 +46,7 @@ email: “cansu.dogan@postgrad.manchester.ac.uk"
 superuser: true
 
 user_groups:
-  - Alumni
+  - 
 
 highlight_name: true
 
