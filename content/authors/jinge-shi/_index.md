@@ -2,8 +2,9 @@
 title: Jinge Shi
 role: Ph.D. Student
 # weight: 
-bio: My research currently focuses on synthesis of MOFs, with the aim to understand the effect solvents have on their structure at different length scales.
-interests: [material informatics, advanced computing, molecular simulations, metal-organic frameworks, machine learning]
+bio: My research focuses on molecular simulation studies of fluids confined in metal–organic frameworks, with particular interest in understanding solvent behaviour, framework stability, and activation processes in porous materials.
+interests: [molecular simulations, metal–organic frameworks, confined fluids, framework flexibility, high-performance computing, data analysis of molecular simulations]
+
 social:
   - icon: twitter
 #    icon_pack: fab
@@ -40,6 +41,7 @@ highlight_name: true
 ---
 # About me
 
-#Chris Ratcliff is a postgraduate researcher in the Sarkisov Group at the University of Manchester. His work focuses on the synthesis of metal-organic frameworks, with the aim to understand the effect solvents have on their structure at different length scales.
+Jinge Shi is a postgraduate researcher in the Sarkisov Group at the University of Manchester. Her work focuses on molecular simulation studies of fluids confined in metal–organic frameworks, with particular interest in understanding solvent behaviour, framework stability, and activation processes in porous materials. 
+
 ## Email
 Jinge.Shi@postgrad.manchester.ac.uk
