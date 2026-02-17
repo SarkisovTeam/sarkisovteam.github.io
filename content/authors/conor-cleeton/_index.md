@@ -33,7 +33,7 @@ email: "conor.cleeton@postgrad.manchester.ac.uk"
 superuser: true
 
 user_groups:
-  - - Alumni
+  - Alumni
 
 highlight_name: true
 
