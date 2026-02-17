@@ -1,5 +1,5 @@
 ---
-title: Jinge Shi
+title: Zackary (Zack) Overend
 role: Ph.D. Student
 # weight: 
 bio: My research focuses on molecular simulation studies of fluids confined in metal–organic frameworks, with particular interest in understanding solvent behaviour, framework stability, and activation processes in porous materials.
@@ -21,13 +21,13 @@ organizations:
 education:
   courses:
     - course: Ph.D. in Chemical Engineering
+      institution: The University of Manchester
+      year: 2024-Present
+    - course: MSc in Chemical Engineering
       institution: University of Manchester
-      year: 2025-Present
-    - course: MEng in Chemical Engineering
-      institution: University of Manchester
-      year: 2021-2025
+      year: 2023-2024
     
-email: "jinge.shi@postgrad.manchester.ac.uk"
+email: "zackary.overend@manchester.ac.uk"
 
 superuser: false
 
@@ -41,7 +41,7 @@ highlight_name: true
 ---
 # About me
 
-Jinge Shi is a postgraduate researcher in the Sarkisov Group at the University of Manchester. Her work focuses on molecular simulation studies of fluids confined in metal–organic frameworks, with particular interest in understanding solvent behaviour, framework stability, and activation processes in porous materials. 
+Zack Overened is a postgraduate researcher in the Sarkisov Group at the University of Manchester. Her work focuses on molecular simulation studies of fluids confined in metal–organic frameworks, with particular interest in understanding solvent behaviour, framework stability, and activation processes in porous materials. 
 
 ## Email
-Jinge.Shi@postgrad.manchester.ac.uk
+zachary.overend@postgrad.manchester.ac.uk
