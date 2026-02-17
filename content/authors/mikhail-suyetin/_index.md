@@ -29,7 +29,7 @@ email: "mikhail.suetin@manchester.ac.uk"
 superuser: false
 
 user_groups:
-  - Researchers
+  - Alumni
 
 highlight_name: true
 
