@@ -1,5 +1,5 @@
 ---
-title: Digitally Reproducing MOF Material Synthesis Conditions For Quantitative Comparison
+title: Digitally Reproducing THE MOF Material Synthesis Conditions For Quantitative Comparison
 date: 2022-08-17
 draft: false
 featured: false
