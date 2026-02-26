@@ -1,5 +1,5 @@
 ---
-title: Can we accurately screen MOFs for carbon capture applications using high throughput computational screening workflows? 
+title: New £1M EPSRC-NSF grant on proton conductivity in MOFs! Whoaa!
 date: 2025-11-11
 image:
   focal_point: 'top'
