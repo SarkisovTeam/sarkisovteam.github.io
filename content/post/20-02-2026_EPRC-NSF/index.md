@@ -4,7 +4,7 @@ date: 2025-11-11
 image:
   focal_point: 'top'
   
-authors: ["lev-sarkisov"]
+authors: ["Lev Sarkisov"]
 ---
 <!-- EPSRC-NSF success    -->
 
