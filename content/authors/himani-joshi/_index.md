@@ -1,9 +1,9 @@
 ---
-title: Jinge Shi
-role: Ph.D. Student
+title: Dr Himani Joshi
+role: Postdoctoral Researcher
 # weight: 
-bio: My research focuses on molecular simulation studies of fluids confined in metal–organic frameworks, with particular interest in understanding solvent behaviour, framework stability, and activation processes in porous materials.
-interests: [molecular simulations, metal–organic frameworks, confined fluids, framework flexibility, high-performance computing, data analysis of molecular simulations]
+bio: My research focuses on the computational and theoretical investigation of novel metal-organic frameworks (MOFs), with particular interest in designing materials that can support enhanced proton conductivity and photocatalytic water splitting.
+interests: [Metal Organic Frameworks, Force Field Development, Framework Flexibility, Density Functional Theory, Monte Carlo Simulations, Proton diffusion]
 
 social:
   - icon: twitter
@@ -11,7 +11,7 @@ social:
 #    link: https://twitter.com/cjfratcliff
   - icon: google-scholar
     icon_pack: ai
-    #link: 
+    link: https://scholar.google.com/citations?user=ci9Rpa8AAAAJ&hl=en 
   - icon: github
     icon_pack: fab
 #    link: https://github.com/C-Ratcliff2000
@@ -20,19 +20,19 @@ organizations:
     url: "https://www.manchester.ac.uk"
 education:
   courses:
-    - course: Ph.D. in Chemical Engineering
-      institution: University of Manchester
-      year: 2025-Present
-    - course: MEng in Chemical Engineering
-      institution: University of Manchester
-      year: 2021-2025
+    - course: Ph.D. in Physics
+      institution: Indian Institute of Technology Indore, India
+      year: 2020-2026
+    - course: Masters in Physics
+      institution: Kumaun University Nainital, India
+      year: 2017-2019
     
-email: "jinge.shi@postgrad.manchester.ac.uk"
+email: "himani.joshi@manchester.ac.uk"
 
 superuser: false
 
 user_groups:
-  - Grad Students
+  - Researchers
 
 highlight_name: true
 
@@ -41,7 +41,6 @@ highlight_name: true
 ---
 # About me
 
-Jinge Shi is a postgraduate researcher in the Sarkisov Group at the University of Manchester. Her work focuses on molecular simulation studies of fluids confined in metal–organic frameworks, with particular interest in understanding solvent behaviour, framework stability, and activation processes in porous materials. 
-
+Dr Himani Joshi is a Postdoctoral Research Associate in the Sarkisov Group at The University of Manchester. Her research focuses on the computational and theoretical investigation of novel metal-organic frameworks (MOFs), with particular interest in designing materials that can support enhanced proton conductivity and photocatalytic water splitting. Her work will focus on the exploration of structure, chemistry, porosity, and functional groups of MOFs that influence their transport and catalytic properties.
 ## Email
-Jinge.Shi@postgrad.manchester.ac.uk
+himani.joshi@manchester.ac.uk
