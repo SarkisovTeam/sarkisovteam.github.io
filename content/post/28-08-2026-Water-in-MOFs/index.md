@@ -1,7 +1,7 @@
 ---
 title: Why is modelling water adsorption in MOFs so challenging? A new perspective in Langmuir, with implications for computational screening and fundamental understanding.
  
-date: 2026-28-08
+date: 2026-08-28
 image:
   focal_point: 'top'
   
