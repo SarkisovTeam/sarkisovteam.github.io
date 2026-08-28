@@ -1,7 +1,7 @@
 ---
 title: Why is modelling water adsorption in MOFs so challenging? A new perspective in Langmuir, with implications for computational screening and fundamental understanding.
  
-date: 2026-08-28
+date: 2026-28-08
 image:
   focal_point: 'top'
   
@@ -25,4 +25,3 @@ https://doi.org/10.1021/acs.langmuir.6c01647
 </figure>
 
 What is the main message? Water adsorption in MOFs remains one of the most challenging problems for both experimentalists and theoreticians. In this Perspective, I wanted to discuss the origins of these challenges, highlight the fundamental insights that can be gained from molecular simulations, and argue for the need for a coherent and collaborative effort between the experimental and simulation communities to bring the computational design of MOFs for water applications closer to practical realization and impact. Let us see if it has an impact!
-
