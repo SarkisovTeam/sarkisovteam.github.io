@@ -6,7 +6,7 @@ date: 2026-28-08
 image:
   focal_point: 'top'
   
-authors: ["lev-sarkisov"]
+authors: ["Lev Sarkisov"]
 ---
 <!-- Can we accurately screen MOFs for carbon capture applications using high throughput computational screening workflows?    -->
 
